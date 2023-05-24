@@ -1,3 +1,22 @@
 body {
   background: #CCC;
+  display:flex;
+  justify-content: center;
+  align-items:center ;
+}
+.conteiner{
+  justify-content: center;
+}
+
+
+.ecentralizado{
+margin: 0 auto;
+
+}
+
+.centralizado{
+text-align: center;
+background-color: aquamarine;
+
+
 }
